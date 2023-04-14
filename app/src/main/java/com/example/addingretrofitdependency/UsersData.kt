@@ -1,6 +1,6 @@
 package com.example.addingretrofitdependency
 
-data class Person(
+data class UsersData(
     val `data`: List<Data>,
     val page: Int,
     val per_page: Int,
